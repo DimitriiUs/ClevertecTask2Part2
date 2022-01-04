@@ -1,0 +1,4 @@
+rootProject.name = 'ClevertecTask2Part2'
+include 'api'
+include 'core'
+
