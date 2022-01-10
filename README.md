@@ -14,5 +14,6 @@ On Windows:
 ```
 On Linux:\
 ```
-gradle run
+chmod +x gradlew
+./gradle run
 ```
